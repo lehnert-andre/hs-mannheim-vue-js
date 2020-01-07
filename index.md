@@ -1,4 +1,5 @@
 # Hochschule Mannheim - Das clientseitige JavaScript-Webframework Vue.js
+__Original Datei mit aktiven Links: [https://github.com/lehnert-andre/hs-mannheim-vue-js/blob/master/index.md](https://github.com/lehnert-andre/hs-mannheim-vue-js/blob/master/index.md)__
 
 Zusammenfassung des Gastvortrags
 
