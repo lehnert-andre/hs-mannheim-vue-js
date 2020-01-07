@@ -108,9 +108,9 @@ data: {
 
 Siehe https://vuejs.org/v2/guide/conditional.html
 
-#### Das <template>-Element
+#### Das &lt;template&gt;-Element
   
-Das <template>-Element ist ein Hilfsmittel für das Rendering von v-for- und v-if-Blöcken, die mehr als ein HTML-Element enthalten oder später im DOM nicht mehr sichtbar sein sollen.
+Das &lt;template&gt;-Element ist ein Hilfsmittel für das Rendering von v-for- und v-if-Blöcken, die mehr als ein HTML-Element enthalten oder später im DOM nicht mehr sichtbar sein sollen.
 
 #### Computed Properties
 
