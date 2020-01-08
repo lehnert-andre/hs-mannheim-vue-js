@@ -15,6 +15,7 @@ Zusammenfassung des Gastvortrags
 ## Folien
 
 - Folien (Web): https://slides.com/andre-lehnert/hs-mannheim-vue-js/fullscreen
+- Folien (PDF): https://github.com/lehnert-andre/hs-mannheim-vue-js/blob/master/hs-mannheim-vue-js.pdf
 
 ## Live-Demo
 
